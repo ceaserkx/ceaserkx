@@ -16,8 +16,6 @@ However, I am a...
 - 🧩 Problem Solver on Hard Mode
 - 🧠 Really big fan of practical, hands-on cybersecurity education
 
-My dream jobs are SOC Analyst | Cybersecurity Engineer | DFIR, with SOC Analyst being at the top of my Christmas list.
-
 Below is just some light-hearted insight into who I am. As mentioned, if you're more interested in my cybersecurity projects, [here you go](https://github.com/ceaserkx/Project-List-2024).
 
 
@@ -39,14 +37,14 @@ That's when I really clung to cybersecurity. I immediately enrolled into WGU to 
 I was enrolled full-time as an Architectural Engineering student before I switched paths... wow). It was also very convenient that I had been working 
 as a Network Repair Analyst for Charter Communications, which involved troubleshooting and alert analysis. Along with school I knew I wanted more out of 
 cybersecurity, so I started studying for my Security+ and passed beautifully. I remember being so elated that I scrambled for more information on how to
- be a SOC Analyst. 
+ be a SOC Analyst or IR Analyst. 
 
-The SOC Analyst position intrigued me the most because it reminded me of my work as an Intelligence Specialist; constantly on the hunt for 
+The SOC and IR positions intrigued me the most because it reminded me of my work as an Intelligence Specialist; constantly on the hunt for 
 threats that put the good guys at an adverse risk. I therefore researched personal projects I could complete that would sharpen my skills as
-a SOC Analyst specifically. I practiced configuring SIEMS and EDRs, and penetrating simulated virtual networks I created on VirtualBox. I was
+a SOC or IR analyst specifically. I practiced configuring SIEMS and EDRs, and penetrating simulated virtual networks I created on VirtualBox. I was
 invited to work as a Cybersercurity Systems Analyst where I am charged with managing a handful of big picture security projects from a compliance perspective.
 I really enjoy my work, but it's not the SOC life I imagined. So that's where we are now. You will see that my github is focused on proving my skills as
-a security professsional in general, with a focus on SOC concepts. 
+a security professsional in general, with a focus on SOC and IR concepts. 
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
